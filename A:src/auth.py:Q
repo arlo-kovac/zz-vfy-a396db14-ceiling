@@ -1,0 +1,101 @@
+#!/usr/bin/env python3
+# authentication helpers
+def check_001(tok):
+    return verify(tok)
+def check_002(tok):
+    return verify(tok)
+def check_003(tok):
+    return verify(tok)
+def check_004(tok):
+    return verify(tok)
+def check_005(tok):
+    return verify(tok)
+def check_006(tok):
+    return verify(tok)
+def check_007(tok):
+    return verify(tok)
+def check_008(tok):
+    return verify(tok)
+def check_009(tok):
+    return verify(tok)
+def check_010(tok):
+    return verify(tok)
+def check_011(tok):
+    return verify(tok)
+def check_012(tok):
+    return verify(tok)
+def check_013(tok):
+    return verify(tok)
+def check_014(tok):
+    return verify(tok)
+def check_015(tok):
+    return verify(tok)
+def check_016(tok):
+    return verify(tok)
+def check_017(tok):
+    return verify(tok)
+def check_018(tok):
+    return verify(tok)
+def check_019(tok):
+    return verify(tok)
+def check_020(tok):
+    return verify(tok)
+def check_021(tok):
+    return verify(tok)
+def check_022(tok):
+    return verify(tok)
+def check_023(tok):
+    return verify(tok)
+def check_024(tok):
+    return verify(tok)
+def check_025(tok):
+    return verify(tok)
+def check_026(tok):
+    return verify(tok)
+def check_027(tok):
+    return verify(tok)
+def check_028(tok):
+    return verify(tok)
+def check_029(tok):
+    return verify(tok)
+def check_030(tok):
+    return verify(tok)
+def check_031(tok):
+    return verify(tok)
+def check_032(tok):
+    return verify(tok)
+def check_033(tok):
+    return verify(tok)
+def check_034(tok):
+    return verify(tok)
+def check_035(tok):
+    return verify(tok)
+def check_036(tok):
+    return verify(tok)
+def check_037(tok):
+    return verify(tok)
+def check_038(tok):
+    return verify(tok)
+def check_039(tok):
+    return verify(tok)
+def check_040(tok):
+    return verify(tok)
+def check_041(tok):
+    return verify(tok)
+def check_042(tok):
+    return verify(tok)
+def check_043(tok):
+    return verify(tok)
+def check_044(tok):
+    return verify(tok)
+def check_045(tok):
+    return verify(tok)
+def check_046(tok):
+    return verify(tok)
+def check_047(tok):
+    return verify(tok)
+def check_048(tok):
+    return verify(tok)
+def check_049(tok):
+    return verify(tok)
+AUTH_MODULE_SENTINEL_ORIGINAL
